@@ -19,7 +19,6 @@ The base branch is the site without ay of the Redux functionality. Try recreatin
 
 - Install `git`
 - Install `node version 12.18` and `npm`
-- Clone the git repo `git clone https://github.com/DevTGhosh/redux-toolkit-example`
 - Run `npm install` to download the necessary node modules
 - Run `npm run start`
 - View the App in your browser at `localhost:3000`
